@@ -15,7 +15,7 @@ import czy_chess_operator as op
 import czy_chessmen as chessmen
 
 #defines
-OK=0
+OK=0 
 ERROR=-1
 TRUE=1
 FALSE=0
