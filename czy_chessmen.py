@@ -23,7 +23,7 @@ def opposite_move(table,i,j):
     #return possible capturing place of the current box
     box=table[i][j]
     if box.type=="P":
-        newpsbms=[]
+        newpsbms=[] 
         #thispawn=pawn(table,i,j,None)
         psbms=[]
         ###declude the straight walk of the pawn!!!!!#######
