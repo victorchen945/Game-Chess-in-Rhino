@@ -39,7 +39,7 @@ class read:
     def bylayer(self,layer):
         objs=sc.doc.Objects.FindByLayer(layer)
         
-        return objs
+        return objs 
         
     def curves(self):
         objtype=r.DocObjects.ObjectType.Curve
