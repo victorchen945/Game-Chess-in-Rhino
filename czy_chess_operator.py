@@ -408,7 +408,7 @@ class move:
                 str=rs.GetString("make decision: Q=Queen,R=Rook,B=Bishop,N=Knight","Q")
                 if str=="Q":
                     click=rs.MessageBox("Are you sure the pawn will change to: Queen?",4,"pawn promoted")
-                    if click==6:break
+                    if click==6:break 
                     if click==7:continue
                 elif str=="R":
                     click=rs.MessageBox("Are you sure the pawn will change to: Rook?",4,"pawn promoted")
