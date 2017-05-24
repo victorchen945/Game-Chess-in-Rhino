@@ -24,7 +24,7 @@ class filepath:
         self.filepath="C:\Users\Administrator\Desktop\wheels\chess\chessmen"
         #self.filepath="C:\Users\Administrator\Desktop\WHEELFAC\GAME\chess\chessmen"
         
-    def pawn(self):
+    def pawn(self): 
         pawn=self.filepath+"\pawn1.3dm"
         return [pawn]
     
