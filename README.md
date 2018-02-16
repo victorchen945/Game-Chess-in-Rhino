@@ -1,4 +1,6 @@
 # Game-Chess-in-Rhino
-# This is a game written in RhinoPython
-# Rhinoceros is an architectural/industrial design tool for designers,and has the api for python.
-# This is how i write a chess game in rhino ironpython
+This is a game written in RhinoPython
+REQUIREMENT:
+RHINOCEROS 5.0 SR9+
+EMBEDDED RHINO IPYTHON
+
